@@ -1,0 +1,13 @@
+JAX-RS API: Java Web Service Restful Service 定义API接口标准，具有不同的实现
+https://github.com/jakartaee/rest
+https://gayerie.dev/epsi-poe-201703/javaee/11_jaxrs.html
+
+Jersey 是 JAX-RS APIs的最佳实现
+- 提供Path Endpoints访问路径，搭建后端Web APIs访问接口
+- 包含ClientBuilder HTTP客户端，用于测试Endpoints
+https://eclipse-ee4j.github.io/jersey/
+
+TODO. JAX-RS bug ?
+JAX-RS Spec mandates that when the connection is lost, the reconnect MUST occur.
+But it is not possible to recognize when the connection is lost and when closed.
+This leads the JAX-RS client to re-connect whenever the server completes sending events !!

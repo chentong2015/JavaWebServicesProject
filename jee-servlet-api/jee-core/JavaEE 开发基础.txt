@@ -1,0 +1,23 @@
+TODO. JEE vs Spring
+JEE 7                        Spring
+EJB CDI           DI         Spring IoC
+Interceptor       AOP        Spring AOP, AspectJ
+JPA            Persistence   JPA, JDBC
+JSF2              UI         Spring MVC, JSF2
+JAX-WS            WS         Spring MVC REST Support, SOAP WS
+JEE Security    Security     Spring Security
+N/A             Testing      Spring Testing
+
+EJB - Enterprise Java Bean
+CDI - Contexts and Dependency Injection
+
+TODO. Eclipse开发Servlet Web Services
+1. 添加JEE Web Container: 将tomcat作为web server添加
+2. 修改tomcat的配置信息：Server Locations > Use Tomcat Installation 允许Eclipse启动和关闭tomcat
+3. tomcat/wtpwebapps 作为set up/deploy应用的位置路径
+4. 构建HttpServlet服务端程序，用于处理请求
+5. 构建JSP和JSTL前端view，呈现动态的页面
+6. 添加JSTL的两种方式：下载.jar类库，添加到WebContent/WEB-INF/lib/ (不推荐)
+   javax.servlet.jsp.jstl.jar
+   javax.servlet.jsp.jstl-api.jar
+7. 添加JSTL的两种方式：使用maven来(构建)添加项目的依赖

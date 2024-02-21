@@ -1,0 +1,11 @@
+TODO. java 后端web服务API
+Servlet - Java API for JEE Web Application    -> Spring MVC 相关
+JAX-WS  - Java API for XML-Based Web Services -> Apache CXF 实现
+JAX-RS  - Java API for RESTFul Web Services   -> Jersey 实现, RESTeasy、WebSphere、WebLogic等
+
+Web Services Metadata for the Java Platform - JSR-181
+SAAJ - SOAP with Attachments API for Java (SAAJ) - JSR-67
+
+
+
+

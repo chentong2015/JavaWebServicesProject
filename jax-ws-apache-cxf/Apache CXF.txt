@@ -1,0 +1,5 @@
+Apache CXF: based on XML web service
+Implements the JAX-WS APIs，also supports a JAX-RS frontend.
+
+https://cxf.apache.org/
+https://cxf.apache.org/docs/a-simple-jax-ws-service.html
