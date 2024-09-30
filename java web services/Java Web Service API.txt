@@ -5,7 +5,3 @@ JAX-RS  - Java API for RESTFul Web Services   -> Jersey 实现, RESTeasy、WebSp
 
 Web Services Metadata for the Java Platform - JSR-181
 SAAJ - SOAP with Attachments API for Java (SAAJ) - JSR-67
-
-
-
-
