@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
     <file url="file://$PROJECT_DIR$/jax-ws-rs-jersey/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/jax-ws-rs-jersey/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jee-servlet-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jee-servlet-api/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/TomcatBasic.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/TomcatSourceCode.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/TomcatStarter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/Tomcat源码分析.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/classloader/UrlClassLoaderTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/classloader/自定义的类加载器.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/hotDeploymentHotLoad/热部署和热加载.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/jndi/Tomcat JNDI配置.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/policy/Policy安全机制.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/policy/TomcatPolicy.java" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>
