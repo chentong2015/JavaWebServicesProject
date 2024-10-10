@@ -15,6 +15,7 @@
     <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/jndi/Tomcat JNDI配置.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/policy/Policy安全机制.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tomcat-web-container/src/main/java/tomcat/policy/TomcatPolicy.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/web containers/Web Containers.txt" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>
