@@ -1,4 +1,4 @@
-TODO. java 后端web服务API
+TODO. web后端服务API框架
 Servlet - Java API for JEE Web Application    -> Spring MVC 相关
 JAX-WS  - Java API for XML-Based Web Services -> Apache CXF 实现
 JAX-RS  - Java API for RESTFul Web Services   -> Jersey 实现, RESTeasy、WebSphere、WebLogic等
