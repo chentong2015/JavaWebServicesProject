@@ -5,6 +5,7 @@ https://gayerie.dev/epsi-poe-201703/javaee/11_jaxrs.html
 Jersey 是 JAX-RS APIs的最佳实现
 - 提供Path Endpoints访问路径，搭建后端Web APIs访问接口
 - 包含ClientBuilder HTTP客户端，用于测试Endpoints
+
 https://eclipse-ee4j.github.io/jersey/
 
 TODO. JAX-RS bug ?
