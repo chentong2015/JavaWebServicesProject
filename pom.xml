@@ -11,7 +11,6 @@
 
     <modules>
         <module>jee-servlet-api</module>
-        <module>jax-ws-rs-jersey</module>
     </modules>
 
     <properties>
